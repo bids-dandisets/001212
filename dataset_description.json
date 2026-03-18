@@ -1,0 +1,19 @@
+{
+    "Name": "Individualized Target Selection of Closed-loop Electrical Stimulation for the Treatment of Spontaneous Temporal Lobe Epilepsy.",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "We provided a comprehensive dataset from a study involving 4-channel long-term brain electrophysiological recordings from 7 pilocarpine-treated rats, each subjected to 4 baseline and 4 stimulation groups. Each group was monitored over a period of 5 to 10 days, with a minimum of 6 spontaneous seizures recorded. The baseline groups captured spontaneous seizures without therapeutic stimulation, while the stimulation groups included spontaneous seizures with therapeutic intervention. Stimulation targets were randomly assigned and not repeated across groups, ensuring independent assessments of treatment effects. The LFP data were saved in MATLAB, adhering to the Neurodata Without Borders (NWB) standard, and are available on the DANDI Archive. This dataset facilitates the evaluation of brain network dynamics and the effects of different stimulation targets on individual responses throughout the study, highlighting the varying effects of stimulation across different individuals.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Yufang, Yang"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}

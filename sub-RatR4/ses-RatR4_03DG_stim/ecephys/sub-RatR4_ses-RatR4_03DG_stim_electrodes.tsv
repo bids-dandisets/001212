@@ -1,0 +1,5 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+e000	implant	n/a	n/a	n/a	n/a	n/a	R_DG	AP:-5.0mm,ML:+3.2mm,DV:-3.2mm
+e001	implant	n/a	n/a	n/a	n/a	n/a	R_CA1	AP:-4.2mm,ML:+3.0mm,DV:-2.2mm
+e002	implant	n/a	n/a	n/a	n/a	n/a	R_CA3	AP:-3.7mm,ML:+4.0mm,DV:-2.8mm
+e003	implant	n/a	n/a	n/a	n/a	n/a	R_ANT	AP:-1.2mm,ML:+2.0mm,DV:-5.6mm
