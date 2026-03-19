@@ -1,9 +1,9 @@
-session_id
-ses-RatR1+00base0
-ses-RatR1+01CA1+stim
-ses-RatR1+02base1
-ses-RatR1+03CA3+stim
-ses-RatR1+04base2
-ses-RatR1+05ANT+stim
-ses-RatR1+06base3
-ses-RatR1+07DG+stim
+session_id	original_session_id
+ses-RatR1+00base0	ses-RatR1_00base0
+ses-RatR1+01CA1+stim	ses-RatR1_01CA1_stim
+ses-RatR1+02base1	ses-RatR1_02base1
+ses-RatR1+03CA3+stim	ses-RatR1_03CA3_stim
+ses-RatR1+04base2	ses-RatR1_04base2
+ses-RatR1+05ANT+stim	ses-RatR1_05ANT_stim
+ses-RatR1+06base3	ses-RatR1_06base3
+ses-RatR1+07DG+stim	ses-RatR1_07DG_stim
